@@ -1,0 +1,5 @@
+1. How to make an Alexa Skill with Python - https://medium.com/@mr_rigden/how-to-make-an-alexa-skill-with-python-cb8a6a6c4d85
+2. How to make an Alexa Skill with Python (Github Repo) - https://github.com/jrigden/alexa_template
+3. Alexa Python tutorial - https://developer.amazon.com/alexa-skills-kit/alexa-skill-quick-start-tutorial
+4. PyAlexa: Python module to help in the building of Alexa skill sets - https://github.com/youngsoul/PyAlexa
+5. Alexa skill tesing tool - https://echosim.io/
